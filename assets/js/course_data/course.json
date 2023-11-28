@@ -1,0 +1,1190 @@
+{
+    "Certificate": {
+        "Marketing": {
+            "name": "Marketing",
+            "description": "Marketing courses teach strategies for influencing customer behavior throughout the customer lifecycle. Learn fundamentals like creating a marketing strategy, brand building, advertising and budget allocation, and leveraging digital and social media channels to reach your business goals. Upon the completion you can receive our GDM Metro Campus certification.",
+            "fee": "52,000",
+            "image": "../assets/img/marketing-strategy-2.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "What is Marketing", 
+                "Business and Economic Environment", 
+                "Business Essentials", 
+                "Accounting Fundamentals",
+                "Mathematics and Statistics",
+                "Improving Business Services and Processes",
+                "Defining the solution",
+                "Making the Business Case",
+                "Personal and Professional Development",
+                "Documenting and Modelling Requirements",
+                "Validating and Managing Requirements",
+                "Delivering the Business Solution"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations with English subject OR Other certifications"
+            ]
+        },
+        "Foundation In Information Technology": {
+            "name": "Foundation In Information Technology",
+            "description": "The information technology is growing up in the current world, therefore, we create Foundation In Information Technology. In this course you can learn about what is the foundation of IT field and if you don't know what IT, this course for you. If you are in the other field, you live in the current world you must know about at least the fundamentals in IT. Upon the completion, you claim the our certification.",
+            "fee": "31,000",
+            "image": "../assets/img/information-ct.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "ICT Applications",
+                "English for ICT",
+                "Mathematics for ICT"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations with English subject"
+            ]
+        },
+        "Information Technology": {
+            "name": "Information Technology",
+            "description": "The information technology (IT) program provides comprehensive knowledge of the basics and fundamental concepts of the field. In order to meet the hopes and aspirations of students who want to become more proficient in IT, it was developed for this purpose. Through this program, you'll be able to explore a wide range of fields in information technology, complementing the knowledge you've already gained. Upon the completion, you can cliam the our certification.",
+            "fee": "22,000",
+            "image": "../assets/img/information-ct.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Information Technology Concepts",
+                "Enhancing Productivity with MS Office",
+                "Computer Hardware",
+                "Network Technology",
+                "Internet, Email & Web Design",
+                "Graphics and Multimedia"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in English course",
+                "Completion of GCE O/L, A/L examinations with English subject"
+            ]
+        },
+        "MS Office": {
+            "name": "MS Office",
+            "description": "Training participants are able to demonstrate their abilities with Word, Excel, Access, PowerPoint, Email, internal and external applications. Through expert instruction and hands-on lab exercises, the Microsoft Office Certificate Program helps students develop technical job readiness skills and gain real-world experience.\n\nEmployers emphasize Microsoft Office skills when seeking candidates with the right qualifications. Following this program allows students to spend less time learning and more time performing meaningful work once they have been hired. Once you have completed the course, you will get the certificate from us.",
+            "fee": "20,000",
+            "image": "../assets/img/MS-Office.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Microsoft Word",
+                "Microsoft Excel",
+                "Microsoft PowerPoint",
+                "Microsoft Access"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course",
+                "Completion of GCE O/L, A/L examinations with English subject"
+            ]
+        },
+        "English": {
+            "name": "English",
+            "description": "It is a highly successful English program that uses a combination of audio-visual aids and interactive whiteboards, as well as exclusive course material from the Smart Learning System, to enhance students' knowledge of English and their ability to communicate.\n\n It covers a wide range of communication skills, from everyday communication to professional communication. To achieve proficiency in English, students will benefit from our basic learning skills. Upon the completing you can get us certification.",
+            "fee": "20,000",
+            "image": "../assets/img/english.jpg",
+            "schedule": "4 Months",
+            "outline": [
+                "Hello Friends",
+                "What's your time",
+                "Social English",
+                "My favourite things",
+                "Advising and Suggesting",
+                "Cause and Effect",
+                "From Tip to Toe",
+                "People and places",
+                "Grammar",
+                "Technology Today",
+                "Choosing a Partner"
+            ],
+            "requirement": [
+                "Anyone can join the course"
+            ]
+        },
+        "Foundation In English": {
+            "name": "Foundation In English",
+            "description": "Designed specifically to enhance basic language competencies and key structures relevant to learning English as a second language, the Foundation in English course aims to improve basic language competencies and key structures. We select course materials carefully in order to ensure that students master the fundamentals of the English language. Upon the completion you can cliam the certificate from us.",
+            "fee": "18,000",
+            "image": "../assets/img/basic.png",
+            "schedule": "3 Months",
+            "outline": [
+                "The Capital Letters",
+                "Nouns",
+                "Pronouns",
+                "Adjectives",
+                "Determiners",
+                "Verbs and Tenses",
+                "Am, Is and Are",
+                "The Present Progressive Tense",
+                "Have and Has",
+                "The Present Perfect Tense",
+                "The Simple Past Tense",
+                "The Past Progressive Tense",
+                "The Future Tense",
+                "Can and Could",
+                "May and Might",
+                "Do, Does and Did"
+            ],
+            "requirement": [
+                "Anyone can join the course"
+            ]
+        },
+        "IELTS English": {
+            "name": "IELTS English",
+            "description": "The IELTS Coach is an instructional program designed to maximize your success on test day by providing you with the strategies that you need to succeed. Because the British Council is a co-owner of IELTS, we are ideally positioned to help you achieve your goals. Designed for students in Pre-Intermediate and above who wish to improve their academic performance on the IELTS test, the IELTS Coach is a comprehensive educational program. Upon completion you can get our certification.",
+            "fee": "32,000",
+            "image": "../assets/img/IELTS-Test-Fee-In-Pakistan.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Speaking",
+                "Writing",
+                "Listening"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Spoken English": {
+            "name": "Spoken English",
+            "description": "Discover the key to speaking English fluently with our spoken English program. Put your vibrant self forward and amplify your confidence. Designed to provide students with a high-quality, practical learning experience, this course is tailored to cater to students with little to no proficiency in spoken English. Upon completion you can climb our certification from us.",
+            "fee": "35,000",
+            "image": "../assets/img/maxresdefault.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Social Speaking",
+                "Stage Performance"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Hospitality Management": {
+            "name": "Hospitality Management",
+            "description": "The course provides exceptional learning experiences for students who are dedicated to a successful career in the hospitality industry. The goal of this program is to prepare you for roles in management across a variety of venues and organizations. In addition, it will equip you with the skills necessary to deliver exceptional service to guests.",
+            "fee": "29,000",
+            "image": "../assets/img/management.jpg",
+            "schedule": "3 Months",
+            "outline": [
+                "Understanding Financial Staements",
+                "Building High-Performing Teams",
+                "Services Marketing Planning and Management",
+                "Pricing and Revenue Management Essentials",
+                "Building Guest Loyalty",
+                "Introduction to Hotel Operations",
+                "Leadership Symposium",
+                "Hospitality Symposium",
+                "Marketing Symposium"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Logic Stricks & Chain Management": {
+            "name": "Logistics & Supply Chain Management",
+            "description": "We provide a logic and chain management course for students. This qualification will broaden learners’ understanding of logistics and supply chain management. It is designed for those who wish to prepare for a first professional role and a future career in the field. As soon as you have completed the course, you can access our certification.",
+            "fee": "40,000",
+            "image": "../assets/img/Logistics & Supply Chain Management.jpg",
+            "schedule": "3 Months",
+            "outline": [
+                "Learning and Study Skills",
+                "Principles of Management",
+                "Microeconomics",
+                "Business Mathematics",
+                "Information Technology for Business"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "HRM": {
+            "name": "HRM (Human Resources Management)",
+            "description": "Human Resources Management is one of the courses we offer to students and this course allows you to learn the foundations of HRM. It is likely that you will be able to take your career to a whole new level if you take this course. The certification will be awarded to you once you have completed the course.",
+            "fee": "40,000",
+            "image": "../assets/img/hrm.png",
+            "schedule": "4 Months",
+            "outline": [
+
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Abacus Fundamental": {
+            "name": "Abacus Fundamental",
+            "description": "You want to beat the calculator in its own game? If yes, then you need to learn the Abacus. What is this device anyway? Despite its simple appearance, this device is capable of achieving higher speed and efficiency than even calculators. Upon completing the task, you will be able to beat the calculator.",
+            "fee": "20,000",
+            "image": "../assets/img/Abacus_featured_image.jpg",
+            "schedule": "4 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Mind Expert": {
+            "name": "Mind Expert",
+            "description": "A person can control their mind by using mind management. As a result, we need to be cautious about our thought processes as well as have a high level of understanding and meditation. There is an 80-20 ratio between knowledge and wisdom - 80 per cent of people are knowledgeable and 20 per cent are wise.\n\n This program will show you how you can harness the incredible power of your mind to help you live the life you want to, by setting goals and creating action plans that will help you reach them, and how to build your self-esteem by enhancing several aspects of your personality and making you the most attractive version of yourself possible.",
+            "fee": "15,000",
+            "image": "../assets/img/mind.jpg",
+            "schedule": "3 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Social Science": {
+            "name": "Social Science",
+            "description": "Distance Education Certificate in Social Sciences is offered by the Faculty of Humanities & Social Sciences' Department of Social Studies. Its purpose is to meet the educational needs of adults over 18 who are employed or have left school. These individuals have not had a formal secondary education. Those who complete this program successfully will be able to pursue a Bachelor’s Degree in Social Sciences.",
+            "fee": "30,000",
+            "image": "../assets/img/socialscience.jpg",
+            "schedule": "4 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        },
+        "Life Skill Development": {
+            "name": "Life Skill Development",
+            "description": "In addition to providing life skills development to all students, we offer you the chance to develop the skills you need.",
+            "fee": "20,000",
+            "image": "../assets/img/Life_Skills_Poster.webp",
+            "schedule": "3 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations OR Certificate in English course"
+            ]
+        }
+    },
+    "Diploma": {
+        "Business Management": {
+            "name": "Diploma in Business Management",
+            "description": "As part of the diploma program, students will receive a high quality and this will enable them to prepare them for further education. Students are also prepared for managing responsibilities in the modern business world through the program. Through the Diploma, you will acquire the skills and knowledge needed for a multi-disciplinary approach to problems in business, information technology, and management.",
+            "fee": "40,000",
+            "image": "../assets/img/business.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Introduction to Business and Its Structure",
+                "Management Process and Organizational Behavior",
+                "Principles of Economics",
+                "Human Resource Management",
+                "Strategic Management",
+                "Marketing Management",
+                "Accounting and Financial Management",
+                "Business Statistics and Data Analytics",
+                "Business Intelligence",
+                "Business Communication",
+                "Entrepreneurship and Innovation Management",
+                "Business Law"
+            ],
+            "requirement": [
+                "Successful completion of G.C.E. Ordinary Level examination"
+            ]
+        },
+        "CCNA": {
+            "name": "CCNA",
+            "description": "From networking fundamentals to advanced applications and services, the CCNA program provides students with an integrated and comprehensive overview, as well as hands-on experience and career skill development opportunities. In addition to promoting workforce readiness, the curriculum provides a solid foundation for students to succeed in networking-related careers and degree programs.",
+            "fee": "52,000",
+            "image": "../assets/img/CCNA-1.jpg",
+            "schedule": "12 Months",
+            "outline": [],
+            "requirement": [
+                "Successful completion of G.C.E. Ordinary Level examination"
+            ]
+        },
+        "Computer Networking": {
+            "name": "Computer Networking",
+            "description": "The Diploma in Computer Networking course blends technical studies with practical experience in the installation and maintenance of computer networks. The units offered have been chosen to suit those who wish to pursue a career as Network Managers with a hardware bias.",
+            "fee": "45,000",
+            "image": "../assets/img/computernetworking.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "What is Ethernet?",
+                "Switch vs Hub vs Router",
+                "Network Technology",
+                "TCP/IP Model",
+                "OSI Model",
+                "DHCP Explained",
+                "Distance Vactor Routing",
+                "What is an IP Address?",
+                "IPv4 vs IPv6",
+                "Circult Switching and Packet Switching",
+                "Subnetting",
+                "Networking Commands",
+                "User Datagram Protocol (UDP)",
+                "Stop and Walt Protocol",
+                "Sllding Window Protocol",
+                "Go - Back - N ARQ"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Advanced Level examination OR Related certification"
+            ]
+        },
+        "Software Development": {
+            "name": "Diploma in Software Engineering (DSE)",
+            "description": "Through the Diploma in Software Engineering (DSE), participants will gain comprehensive skills in systematic software design and development. Essential skills and techniques are taught and practiced to perfection in a creative atmosphere with a strong emphasis on Software Engineering concepts.",
+            "fee": "53,000",
+            "image": "../assets/img/softwareengineer.jpeg",
+            "schedule": "12 Months",
+            "outline": [
+                "What is software development?",
+                "Selecting a methodology",
+                "Gathering requirements",
+                "Choosing or building an architecture",
+                "Developing a design",
+                "Building a model",
+                "Constructing code",
+                "Testing",
+                "Managing configuration and defects",
+                "Deploying",
+                "Migrating data",
+                "Managing and measuring the project",
+                "Why is software development important?",
+                "Key features of effective software development"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Advanced Level examination OR Related certification"
+            ]
+        },
+        "Computer Hardware": {
+            "name": "Computer Hardware",
+            "description": "Specifically designed for students who are looking for a gateway and a transitional path to begin their higher education at leading universities, the diploma in computer hardware is designed for those students. In this program, we will discuss lots of topics related to hardware.",
+            "fee": "40,000",
+            "image": "../assets/img/computerheadware.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "What is computer hardware?",
+                "Central processing unit (CPU)",
+                "Motherboard",
+                "Random Access Memory (RAM)",
+                "Video graphics array port",
+                "Power supply",
+                "Cooling fan",
+                "Hard drive",
+                "Monitor",
+                "Printer",
+                "Scanner",
+                "Computer mouse",
+                "Assembling all Components",
+                "CPU building test"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Ordinary Level examination OR Related certification"
+            ]
+        },
+        "Web Development": {
+            "name": "Web Development",
+            "description": "The Diploma in Web Development on GDM Metro Campus was designed specifically to meet the needs of industry. This 6-12 months program bridges the gap between the computing and non-computing fields. As a graduate of this full-time or part-time course, you will learn a wide range of skills.",
+            "fee": "35,000",
+            "image": "../assets/img/webdev.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "What is Web Development?",
+                "HTML/CSS/JS",
+                "PHP/Python/ASP.Net",
+                "Version Controller",
+                "Browser DevTools",
+                "API (Application Programming Interface)",
+                "Authentication",
+                "MVC (Model, View, Controller)",
+                "Programming Languages (Backend)",
+                "Problem-Solving and Searching",
+                "Writing Tests",
+                "DevOps and Deployment",
+                "SEO"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Advanced Level examination OR Related certification"
+            ]
+        },
+        "Python Programming": {
+            "name": "Python Programming",
+            "description": "In this Diploma in Python Programming, we will provide a high understanding of the Python programming language. Learn all about Python programming, and after completing the course, you will be able to write your own Python program.",
+            "fee": "30,000",
+            "image": "../assets/img/python.webp",
+            "schedule": "6 Months",
+            "outline": [
+                "What is Python Programming?",
+                "Basic Syntax",
+                "(Variables and Data Types), Conditionals, (Type Casting and Exceptions), (Functions and Builtin Function), (Lists, Tuples, Sets and Dictionaries)",
+                "OOP (Object Orientate Programming)",
+                "Data Structures and Algorithms",
+                "Modules",
+                "Package Managers",
+                "Web Scrapping",
+                "Web Framework"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Advanced Level examination OR Related certification"
+            ]
+        },
+        "Java Programming": {
+            "name": "Java Programming",
+            "description": "In this Diploma in Java Programming, we will provide a high understanding of the Python programming language. Learn all about Java Programming, and after completing the course, you will be able to write your own Java program.",
+            "fee": "30,000",
+            "image": "../assets/img/java.webp",
+            "schedule": "6 Months",
+            "outline": [
+                "What is Java Programming?",
+                "Java Fundamentals",
+                "Java advanced topics",
+                "Build Tools",
+                "Web Frameworks",
+                "ORM",
+                "Logging Frameworks",
+                "JDBC",
+                "Testing Apps"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Advanced Level examination OR Related certification"
+            ]
+        },
+        "Graphic Desgning": {
+            "name": "Graphic Desgning",
+            "description": "The purpose of this course is to provide students with the technical skills necessary to utilize modern technology to create spectacular designs. Additionally, it increases their creativity so that they can become the most talented graphic designers of the future. Throughout the course, students will be exposed to real-world workplace scenarios, where they will be able to demonstrate their skills and receive the training they will need to create astonishing designs when they begin their professional careers.",
+            "fee": "25,000",
+            "image": "../assets/img/graphicdesigner.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Balance",
+                "Proximity",
+                "Alignment",
+                "Visual Hierarchy",
+                "Repetition",
+                "Contrast",
+                "Colour",
+                "Negative Space",
+                "Typography",
+                "Rules"
+            ],
+            "requirement": [
+                "Anyone can join the course"
+            ]
+        },
+        "Computer Programming": {
+            "name": "Computer Programming",
+            "description": "In this Diploma in Computer Programming, we will provide a wide range of topics covered in this course. Learners can learn the fundamentals of programming, programming languages, automation and web scraping through this course. We hope this course will be helpful to many learners.",
+            "fee": "45,000",
+            "image": "../assets/img/computerprogramming.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Introduction to Computer Programming",
+                "Importance to Programming",
+                "Learning Basic Programming Languages Syntax"
+            ],
+            "requirement": [
+                "Completion of G.C.E. Ordinary Level examination OR Related certification"
+            ]
+        },
+        "Information Technology": {
+            "name": "Information Technology",
+            "description": "The Diploma in Information Technology (IT) program provides comprehensive knowledge of the basics and fundamental concepts of the field. In order to meet the hopes and aspirations of students who want to become more proficient in IT, it was developed for this purpose. Through this program, you'll be able to explore a wide range of fields in information technology, complementing the knowledge you've already gained. Upon the completion, you can cliam the our diploma certification.",
+            "fee": "42,000",
+            "image": "../assets/img/information-ct.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Information Technology Concepts",
+                "Enhancing Productivity with MS Office",
+                "Computer Hardware",
+                "Network Technology",
+                "Internet, Email & Web Design",
+                "Graphics and Multimedia",
+                "Software Engineering",
+                "Programming with Python",
+                "Databases with SQL",
+                "Programming with C#",
+                "Final Project"
+            ],
+            "requirement": [
+                "GCE A/L examination OR",
+                "Completion of Certificate in Information Technology (CIT) course"
+            ]
+        },
+        "Academic English": {
+            "name": "Academic English",
+            "description": "Compared to everyday spoken English or 'social' English, academic English differs significantly. When expressing ideas clearly, precisely, and objectively, using advanced vocabulary, expressions, and sentence structure, along with critical evaluation, it refers to expressing ideas in a clear, precise, and objective manner. This course prepares students for undergraduate and postgraduate studies in a university setting. The course focuses on developing Reading & Writing Skills, Sourcing Materials, Summarizing & Reformulating Techniques, Research Proposal Writing Skills, Vocabulary Building Techniques, English Grammar for Academic Purposes, Academic Presentation Techniques. It is expected that students will develop their own subject-specific vocabulary as well as their own writing style.",
+            "fee": "40,000",
+            "image": "../assets/img/academic-english.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "To be an effective reader",
+                "Avoiding plagiarism",
+                "Note taking skills and summarising",
+                "Academic essays",
+                "Academic presentations",
+                "Punctuation in academic writing",
+                "Descriptive writing",
+                "Causes,effects and solutions",
+                "Vocabulary building (A)",
+                "Vocabulary building (B)"
+            ],
+            "requirement": [
+                "Anyone can join the course"
+            ]
+        },
+        "Business English": {
+            "name": "Business English",
+            "description": "Office environments, as well as business-related social situations, require effective communication skills that demonstrate clarity, precision, superior vocabulary, phasing, clear pronunciation, and proper grammatical structure. Additionally, it helps you to gain confidence, build trust and promote better relationships with colleagues, senior managers, and clients. The language used in business is also more formal and tends to be subject-specific. A sound grasp of business English is essential for improving your writing skills – in order to avoid miscommunication and ambiguity. This course draws on the international expertise of Pearson, in a structured, highly effective, practical and results-oriented course in business English.",
+            "fee": "45,000",
+            "image": "../assets/img/Business English.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "My Dream Company 20401",
+                "Company History",
+                "Technology and business?",
+                "Changing the trends",
+                "Talking finance",
+                "Business presentations",
+                "My dream job",
+                "Business Memos",
+                "An introduction to business letters",
+                "Business report",
+                "Reading & Interpretation Skills",
+                "Vocabulary Building Techniques"
+            ],
+            "requirement": [
+                "Anyone can join the course"
+            ]
+        },
+        "English": {
+            "name": "English",
+            "description": "It is a highly successful English Diploma program that uses a combination of audio-visual aids and interactive whiteboards, as well as exclusive course material from the Smart Learning System, to enhance students' knowledge of English and their ability to communicate.\n\n It covers a wide range of communication skills, from everyday communication to professional communication. To achieve proficiency in English, students will benefit from our basic learning skills. Upon the completing you can get us diploma certification.",
+            "fee": "35,000",
+            "image": "../assets/img/english.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Introduce yourself",
+                "Ambitious Students work really hard towards their goal",
+                "Do you love what you do?",
+                "What are you doing now?",
+                "I'm going to travel the world",
+                "My alarm clock didn't ring",
+                "Have your heard of Google?",
+                "I had always wanted to write a memoir",
+                "You ought to be happy",
+                "Presentation skills",
+                "How long have you been learning English?",
+                "Nine eleven : A miraculous escape",
+                "A letter from the office",
+                "I was nominated",
+                "Answering in three rings"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in English (CIE) course"
+            ]
+        },
+        "IELTS English": {
+            "name": "IELTS English",
+            "description": "The IELTS Coach is an instructional program designed to maximize your success on test day by providing you with the strategies that you need to succeed. Because the British Council is a co-owner of IELTS, we are ideally positioned to help you achieve your goals. Designed for students in Pre-Intermediate and above who wish to improve their academic performance on the IELTS test, the IELTS Coach is a comprehensive educational program. Upon completion you can get our diploma certification.",
+            "fee": "45,000",
+            "image": "../assets/img/IELTS-Test-Fee-In-Pakistan.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Speaking Speed",
+                "Speak Only In English",
+                "Ask, If You Do Not Understand The Question",
+                "Prepare Your Answers",
+                "Pronunciation",
+                "Vocabulary",
+                "Grammar",
+                "Fluency/Coherence",
+                "Practice",
+                "Focus"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in IELTS English (IELTS-CIE) course"
+            ]
+        },
+        "Spoken English": {
+            "name": "Spoken English",
+            "description": "Discover the key to speaking English fluently with our spoken English Diploma program. Put your vibrant self forward and amplify your confidence. Designed to provide students with a high-quality, practical learning experience, this course is tailored to cater to students with little to no proficiency in spoken English. Upon completion you can climb our diploma certification from us.",
+            "fee": "43,000",
+            "image": "../assets/img/maxresdefault.jpg",
+            "schedule": "12 Months",
+            "outline": [
+                "Tense",
+                "Regular and irregular verbs",
+                "Subject-Verb agreement",
+                "Common prepositions"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Spoken English (CISE) course"
+            ]
+        },
+        "Hospitality Management": {
+            "name": "Hospitality Management",
+            "description": "In the world, one of the fastest growing industries is hospitality, creating a new job every 2.5 seconds. The rate of this growth is approximately 23 times more than the global economy. Our higher diploma is meant to provide you with the opportunity to learn and practice in this field. Upon completion of our diploma program in hospitality management, you will receive a diploma certificate.",
+            "fee": "35,000",
+            "image": "../assets/img/management.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Understanding Financial Staements",
+                "Building High-Performing Teams",
+                "Services Marketing Planning and Management",
+                "Pricing and Revenue Management Essentials",
+                "Building Guest Loyalty",
+                "Introduction to Hotel Operations",
+                "Leadership Symposium",
+                "Hospitality Symposium",
+                "Marketing Symposium"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Hospitality Management (CIHM) course"
+            ]
+        },
+        "Logic Stricks & Chain Management": {
+            "name": "Logistics & Supply Chain Management",
+            "descripion": "This diploma course programme of study provides learners with the opportunity to engage with the challenges facing professionals and policy makers in their own country. Learners can develop and enhance their knowledge and skills in the areas of leading change, effective planning, risk assessment, forecasting, policy, management theory and practice in logistics and supply chain management. Upon completion of this qualification, learners will be able to work in a variety of roles within logistics and supply chain management and to progress to further study.",
+            "fee": "45,000",
+            "image": "../assets/img/Logistics & Supply Chain Management.jpg",
+            "schedule": "6 Months",
+            "outline": [
+                "Learning and Study Skills",
+                "Principles of Management",
+                "Microeconomics",
+                "Business Mathematics",
+                "Information Technology for Business",
+                "Supplier Relationship Management",
+                "Sustainable Supply Chain Management",
+                "Lean Six Sigma",
+                "Transport Management",
+                "Business Analytics & Simulation"
+            ],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Logic Stricks & Chain Management (CILSACM) course"
+            ]
+        },
+        "HRM": {
+            "name": "HRM (Human Resources Management)",
+            "description": "The Diploma in Human Resource Management course provides you with a understanding of human resource management. It gives you leadership and management positions in various types of organizations and these diplomas require students to take classes that focus on different aspects of the field.",
+            "fee": "43,000",
+            "image": "../assets/img/hrm.png",
+            "schedule": "6 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Human Resources Management (CIHRM) course"
+            ]
+        },
+        "INT. Teaching Eduation": {
+            "name": "INT. Teaching Education",
+            "description": "The Diploma in Teacher Education qualification is to develop learners' understanding of theory and practice relating to their role in education. The qualification will provide learners with an opportunity to engage with the challenges facing professionals and policy makers in their own country. It can be provide knowledge that underpins the ability to work as an effective practitioner in the education sector. This Diploma offers an opportunity for career development as colleges and other places of further education and many other sector employers generally require this level of qualification or at least a commitment to gain this upon employment.",
+            "fee": "43,000",
+            "image": "../assets/img/teaching.jpg",
+            "schedule": "12 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in INT. Teaching Eduation (CIINT) course"
+            ]
+        },
+        "Mind Expert": {
+            "name": "Mind Expert",
+            "description": "A person can control their mind by using mind management. As a result, we need to be cautious about our thought processes as well as have a high level of understanding and meditation. There is an 80-20 ratio between knowledge and wisdom - 80 per cent of people are knowledgeable and 20 per cent are wise.\n\n This program will show you how you can harness the incredible power of your mind to help you live the life you want to, by setting goals and creating action plans that will help you reach them, and how to build your self-esteem by enhancing several aspects of your personality and making you the most attractive version of yourself possible.",
+            "fee": "23,000",
+            "image": "../assets/img/mind.jpg",
+            "schedule": "6 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Mind Expert  (CIME) course"
+            ]
+        },
+        "Life Skill Development": {
+            "name": "Life Skill Development",
+            "description": "In addition to providing life skills development for all students, we offer you the chance to develop the skills you need. This diploma course provides a massive amount of opportunity to develop new skills under the same roof.",
+            "fee": "26,000",
+            "image": "../assets/img/Life_Skills_Poster.webp",
+            "schedule": "6 Months",
+            "outline": [],
+            "requirement": [
+                "Completion of GCE O/L, A/L examinations AND Certificate in Life Skill Development (CILSD) course"
+
+            ]
+        }
+    },
+    "Higher-Diploma": {
+        "Business Management": {
+            "name": "Higher National Diploma in Business Management",
+            "description": "As part of the higher diploma program, students will receive a high quality and professionally relevant education equivalent to the first and second year of an undergraduate program. This will enable them to prepare them for further education. Students are also prepared for managing responsibilities in the modern business world through the program. Through the Diploma, you will acquire the skills and knowledge needed for a multi-disciplinary approach to problems in business, information technology, and management.",
+            "fee": "120,000",
+            "image": "../assets/img/business.jpg",
+            "schedule": "24 Months",
+            "outline": [
+                "Business and Business Environment",
+                "Marketing Processes and Planning",
+                "Human Resource Management",
+                "Leadership and Management",
+                "Accounting Principles",
+                "Managing Successful Business Project",
+                "Business Law",
+                "Professional Identity and Practice",
+                "Research Project (Pearson Set)",
+                "Organisational Behaviour",
+                "Business Strategy",
+                "Business Intelligence",
+                "Principles of Operations Management",
+                "Understanding and Leading Change",
+                "Global Business Environment"
+            ],
+            "requirement": [
+                "Two passes for G.C.E. Advanced Level examination AND Credit (C) pass for English at G.C.E. Ordinary Level examination OR",
+                "Credit (C) pass for English at G.C.E. Ordinary Level examination with a recognized Business Diploma qualification (e.g. DiBM)"
+            ]
+        },
+        "Computer Networking": {
+            "name": "Computer Networking",
+            "description": "The Higher Diploma in Computer Networking course blends technical studies with practical experience in the installation and maintenance of computer networks. The units offered have been chosen to suit those who wish to pursue a career as Network Managers with a hardware bias. They can also be used to complete a degree in networking in the final year.",
+            "fee": "150,000",
+            "image": "../assets/img/computernetworking.jpg",
+            "schedule": "24 Months",
+            "outline": [
+                "Programming",
+                "Networking",
+                "Professional Practice",
+                "Database Design & Development",
+                "Security",
+                "Managing a Successful Computing Project",
+                "Maths for Computing",
+                "Web Design and Development",
+                "Computing Research Project",
+                "Business Intelligence",
+                "System Analysis and Design",
+                "Emerging Technologies",
+                "Computing Research Project Cont..",
+                "Cloud Computing",
+                "Transport Network Design",
+                "Network Security"
+            ],
+            "requirement": [
+                "Advanced Levels with 2 passes, including Credit for English AND Mathematics at Ordinary Levels OR",
+                "Ordinary Levels with Credit for English AND Mathematics, including minimum a recognized ICT Diploma (DiTEC) OR",
+                "Pending Advanced Level results"
+            ]
+        },
+        "Software Development": {
+            "name": "Higher Diploma in Software Engineering (HDSE)",
+            "description": "Through the Higher Diploma in Software Engineering (HDSE), participants will gain comprehensive skills in systematic software design and development. Essential skills and techniques are taught and practiced to perfection in a creative atmosphere with a strong emphasis on Software Engineering concepts.",
+            "fee": "155,000",
+            "image": "../assets/img/softwareengineer.jpeg",
+            "schedule": "24 Months",
+            "outline": [
+                "Programming",
+                "Networking",
+                "Professional Practice",
+                "Database Design & Development",
+                "Security",
+                "Managing a Successful Computing Project",
+                "Maths for Computing",
+                "Web Design & Development",
+                "Computing Research Project",
+                "Business Intelligence",
+                "Data Structures and Algorithm",
+                "System Analysis and Design",
+                "Computing Research Project Cont..",
+                "Discrete Maths",
+                "Advanced Programming",
+                "Application Development"
+            ],
+            "requirement": [
+                "Advanced Levels with 2 passes, including Credit for English and Mathematics at Ordinary Levels OR",
+                "Ordinary Levels with Credit for English AND Mathematics, including minimum a recognized ICT Diploma (DiTEC) OR",
+                "Pending Advanced Level results"
+            ]
+        },
+        "Web Development": {
+            "name": "Web Development ",
+            "description": "The Higher Diploma in Web Development on GDM Metro Campus was designed specifically to meet the needs of industry. This 1-2 year program bridges the gap between the computing and non-computing fields. As a graduate of this full-time or part-time course, you will learn a wide range of skills.",
+            "fee": "150,000",
+            "image": "../assets/img/webdev.jpg",
+            "schedule": "24 Months",
+            "outline": [
+                "What is Web Development?",
+                "HTML/CSS/JS",
+                "JavaScript Front-End Libraries",
+                "Note.js",
+                "PHP/Python/ASP.Net/JavaScript",
+                "Version Controller",
+                "Browser DevTools",
+                "API (Application Programming Interface)",
+                "Authentication",
+                "MVC (Model, View, Controller)",
+                "Programming Languages (Backend)",
+                "Problem-Solving and Searching",
+                "Writing Tests",
+                "DevOps and Deployment",
+                "SEO"
+            ],
+            "requirement": [
+                "Advanced Levels with 2 passes, including Credit for English and Mathematics at Ordinary Levels OR",
+                "Ordinary Levels with Credit for English AND Mathematics, including minimum a recognized ICT Diploma (DiTEC) OR",
+                "Pending Advanced Level results"
+            ]
+        },
+        "Hospitality Management": {
+            "name": "Hospitality Management",
+            "description": "In the world, one of the fastest growing industries is hospitality, creating a new job every 2.5 seconds. The rate of this growth is approximately 23 times more than the global economy. Our higher diploma is meant to provide you with the opportunity to learn and practice in this field. ",
+            "fee": "120,000",
+            "image": "../assets/img/management.jpeg",
+            "schedule": "24 Months",
+            "outline": [
+                "The Contemporary Hospitality Industry",
+                "Managing the Customer Experience",
+                "Professional Identity and Practice",
+                "The Hospitality Business Toolkit",
+                "Leadership and Management for Service Industries (Pearson-set)",
+                "Managing Food and Beverage Operations",
+                "Managing Conference and Events",
+                "Pitching and Negotiation Skills",
+                "Research Project (Pearson-set)",
+                "Hospitality Consumer Behaviour and Insight",
+                "Revenue Management",
+                "Front Office Operations Management",
+                "Hospitality Digital Marketing",
+                "Hospitality Supply Chain Management",
+                "Work Experience"
+            ],
+            "requirement": [
+                "Age 16+",
+                "Minimum credit pass for GCE O/L English OR IELTS 6.5 or above",
+                "Minimum 3 passes in G.C.E. A/L examination",
+                "Diploma in Hospitality Management"
+            ]
+        },
+        "Logic Stricks & Chain Management": {
+            "name": "Logistics & supply Chain Management",
+            "description": "This course programme of study provides learners with the opportunity to engage with the challenges facing professionals and policy makers in their own country. Learners can develop and enhance their knowledge and skills in the areas of leading change, effective planning, risk assessment, forecasting, policy, management theory and practice in logistics and supply chain management. Upon completion of this qualification, learners will be able to work in a variety of roles within logistics and supply chain management and to progress to further study.",
+            "fee": "130,000",
+            "image": "../assets/img/Logistics & Supply Chain Management.jpg",
+            "schedule": "24 Months",
+            "outline": [
+                "Learning and Study Skills",
+                "Principles of Management",
+                "Microeconomics",
+                "Business Mathematics",
+                "Information Technology for Business",
+                "Supplier Relationship Management",
+                "Sustainable Supply Chain Management",
+                "Lean Six Sigma",
+                "Transport Management",
+                "Business Analytics & Simulation",
+                "Business Negotiation",
+                "Supply Chain Forecasting",
+                "Strategic Sourcing",
+                "Inventory and Warehouse Management",
+                "Lean Management"
+            ],
+            "requirement": [
+                "Two passes for G.C.E. Advanced Level examination AND Credit (C) pass for English at G.C.E. Ordinary Level examination OR",
+                "Credit (C) pass for English at G.C.E. Ordinary Level examination with a recognized Logic Stricks & Chain Management Diploma qualification (e.g. DiINT)"
+            ]
+        },
+        "HRM": {
+            "name": "HRM (Human Resources Management)",
+            "description": "The Higher National Diploma in Human Resource Management course provides you with a high understanding of human resource management. It gives you leadership and management positions in various types of organizations and these higher national diplomas require students to take classes that focus on different aspects of the field.",
+            "fee": "132,000",
+            "image": "../assets/img/hrm.png",
+            "schedule": "24 Months",
+            "outline": [
+                "Business and Business Environment",
+                "Marketing Processes and Planning",
+                "Human Resource Management",
+                "Leadership and Management",
+                "Accounting Principles",
+                "Managing Successful Business Project",
+                "Business Law",
+                "Professional Identity and Practice",
+                "Research Project (Pearson Set)",
+                "Organisational Behaviour",
+                "Business Strategy",
+                "Business Intelligence",
+                "Resource and Talent Planning",
+                "Employee Relations",
+                "Strategic Human Resource Management"
+            ],
+            "requirement": [
+                "Two passes for G.C.E. Advanced Level examination AND Credit (C) pass for English at G.C.E. Ordinary Level examination OR",
+                "Credit (C) pass for English at G.C.E. Ordinary Level examination with a recognized Business Diploma qualification (e.g. DiBM)"
+            ]
+        },
+        "INT. Teaching Eduation": {
+            "name": "INT. Teaching Education",
+            "description": "The Higher National Diploma in Teacher Education qualification is to develop learners' understanding of theory and practice relating to their role in education. The qualification will provide learners with an opportunity to engage with the challenges facing professionals and policy makers in their own country. It can be provide knowledge that underpins the ability to work as an effective practitioner in the education sector. This Diploma offers an opportunity for career development as colleges and other places of further education and many other sector employers generally require this level of qualification or at least a commitment to gain this upon employment.",
+            "fee": "142,000",
+            "image": "../assets/img/teaching.jpg",
+            "schedule": "24 Months",
+            "outline": [
+                "Two passes for G.C.E. Advanced Level examination AND Credit (C) pass for English at G.C.E. Ordinary Level examination OR",
+                "Credit (C) pass for English at G.C.E. Ordinary Level examination with a recognized INT Diploma qualification (e.g. DiINT)"
+            ]
+        },
+        "Social Science": {
+            "name": "Social Science",
+            "description": "An higher national diploma in Social Science will enable you to contribute to shaping our world. You can gain a comprehensive understanding of the world's complexity, cultural diversity, and dynamic nature by combining theory, research, and practical application. In addition to industry-based projects and placements, you'll gain local and international work experience and develop practical skills that will prepare you for career success.",
+            "fee": "132,000",
+            "image": "../assets/img/socialscience.jpg",
+            "schedule": "24 Months",
+            "outline": [],
+            "requirement": [
+                "Two passes for G.C.E. Advanced Level examination AND Credit (C) pass for English at G.C.E. Ordinary Level examination OR",
+                "Credit (C) pass for English at G.C.E. Ordinary Level examination with a recognized Social Science Diploma qualification (e.g. DiINT)"
+            ]
+        }
+    },
+    "Degree": {
+        "Bachelor of Marketing": {
+            "name": "Bachelor of Marketing",
+            "description": "The marketing management profession emphasizes the importance of transforming a company's entire system into one that focuses on its customers. By learning about both the organization and the customer, students are able to gain a new perspective on both. Students will gain an in-depth understanding of marketing practices as they are practiced in today's competitive business environment through this course, which includes universally applicable fundamentals.",
+            "fee": "220,000",
+            "image": "../assets/img/marketing-strategy-2.jpg",
+            "schedule": "2 Years",
+            "outline": [
+                "Business and Business Environment",
+                "Marketing Processes and Planning",
+                "Human Resource Management",
+                "Leadership and Management",
+                "Accounting Principles",
+                "Managing Successful Business Project",
+                "Business Law",
+                "Professional Identity and Practice",
+                "Research Project (Pearson Set)",
+                "Organisational Behaviour",
+                "Business Strategy",
+                "Business Intelligence",
+                "Marketing Insights and Analytics",
+                "Digital Marketing",
+                "Integrated Marketing Communications"
+            ],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish Marketing as a career Path"
+            ]
+        },
+        "Bachelor of Business Management": {
+            "name": "Bachelor of Business Management ( BBM Hons Degree )",
+            "description": "This program focuses on developing students in critical aspects of management roles in business. Upon graduation, students will have the necessary skills and knowledge for a multidisciplinary approach and begin their careers as business professionals.\nThose wishing to pursue a BBM (Hons) degree at GDM Metro Campus need to get approval from the Ministry of Education.",
+            "fee": "230,000",
+            "image": "../assets/img/business.jpg",
+            "schedule": "2 Years",
+            "outline": [
+                "Principles of Management",
+                "Information Technology for Business",
+                "Financial Accounting",
+                "Micro Economics",
+                "Business Communication",
+                "Marketing Management",
+                "Human Resource Management",
+                "Business Mathematics",
+                "Macro Economics",
+                "Business and Society",
+                "Management Information System",
+                "Organization Behaviour",
+                "Management Accounting",
+                "Business Statistics",
+                "Leadership Soft Skills and Innovation",
+                "E-Commerce & Business Models",
+                "Financial Management",
+                "Operations Management",
+                "Business Law",
+                "Managerial Economics",
+                "Project Management",
+                "Supply Chain and Logistic Management",
+                "Brand Management",
+                "Digital Business Strategy",
+                "Services & Experience Marketing",
+                "Research Methodology",
+                "Corporate Finance and Wealth Management",
+                "Business Analytics",
+                "Business Simulation Project",
+                "International Business",
+                "Leadership & Change Management",
+                "Event Management",
+                "Managing Innovations",
+                "Sustainability & Business Ethics",
+                "Computer Based Data Analysis",
+                "Strategic Management",
+                "Entrepreneurship",
+                "Taxation",
+                "Personal Branding and Career Development",
+                "Knowledge Management",
+                "Dissertation",
+                "Business Internship"
+            ],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish Business as a career Path"
+            ]
+        },
+        "Computer Networking": {
+            "name": "Computer Networking BSc (Hons)",
+            "description": "Students are provided with the knowledge, skills, and competencies necessary to contribute to the planning, design, and management of modern network-based computer systems. Through the degree programme, students gain comprehensive knowledge of computer hardware, network engineering, embedded systems, communication systems, as well as interface design and automation.",
+            "fee": "260,000",
+            "image": "../assets/img/computernetworking.jpg",
+            "schedule": "4 Years",
+            "outline": [
+                "Network and Cloud Security",
+                "Network Security",
+                "Wireless Networks",
+                "Project",
+                "Network and Cloud Security",
+                "Network Security",
+                "Network Planning and Simulation",
+                "Project"
+            ],
+            "requirement": [
+                "Pearson BTEC HND in Networking / Computing & Systems Development (Networking Pathway) OR",
+                "A recognized Advanced/ Higher Diploma in the field of Networking"
+            ]
+        },
+        "Software Development": {
+            "name": "Bachelor of Software Engineering (Honours)",
+            "description": "Learn how to develop smart software and systems through Deakin's Bachelor of Software Engineering (Honours). As a graduate of this course, you will have the knowledge and skills to build disruptive technologies that create change. This will increase your employability as a creative computer expert that can solve tomorrow's business problems. Learn about a broad range of exciting study areas, including robotics, algorithms, programming and software architecture, and get hands-on experience in world-class facilities.",
+            "fee": "230,000",
+            "image": "../assets/img/softwareengineer.jpeg",
+            "schedule": "4 Years",
+            "outline": [
+                "Requirement analysis and planning",
+                "Specification",
+                "Software architecture",
+                "Prototyping and design",
+                "Coding",
+                "Testing",
+                "Documentation",
+                "Product quality control",
+                "Deployment",
+                "Training and support",
+                "Maintenance",
+                "Product readiness and advancement"
+            ],
+            "requirement": [
+                "Pearson BTEC HND in Computing/ IT/IS OR",
+                "BCS Diploma OR",
+                "NCC IAD OR",
+                "A recognized Advanced/ Higher Diploma in IT/ IS"
+            ]
+        },
+        "Hospitality Management": {
+            "name": "Bachelor of Hospitality Management",
+            "description": "In a Bachelor of Business in Hospitality Management program, you'll learn about key hospitality concepts and operations, including marketing, hospitality entrepreneurship, and global hospitality innovation. While studying hospitality management, you can gain industry experience and graduate with the skills you need to launch a career in the field.",
+            "fee": "199,000",
+            "image": "../assets/img/management.jpeg",
+            "schedule": "1 Year",
+            "outline": [
+                "Research Methods and Project",
+                "Strategic Planning in Hospitality Management",
+                "Hospitality Operations",
+                "Emerging Trends in Hospitality Industry",
+                "Issues in Human Resource Management"
+            ],
+            "requirement": [
+                "Higher National Diploma (HND) in Hospitality Management or",
+                "Advanced Diploma from a recognized institute or",
+                "SLITTHM 4 Year Diploma or",
+                "CTH with significant managerial level working experience"
+            ]
+        },
+        "Logic Stricks & Chain Management": {
+            "name": "BBA (Hons) Specialising in Logistics & Supply Chain Management",
+            "description": "The program prepares students to manage supply chains and logistics in a variety of ways. This includes demand planning, purchasing, inventory control, material handling, customer support, IT, transportation, distribution, warehousing, and strategic supply chain management. Plans, implements, controls, analyzes, designs, implements, and improves manufacturing and service processes. Assists students in gaining the theoretical conceptual base and analytical methods they need to make sound business decisions in manufacturing, distribution, transportation, and logistics careers.",
+            "fee": "210,000",
+            "image": "../assets/img/Logistics & Supply Chain Management.jpg",
+            "schedule": "1 Year",
+            "outline": [
+                "Learning and Study Skills",
+                "Principles of Management",
+                "Microeconomics",
+                "Business Mathematics",
+                "Information Technology for Business",
+                "English Language Skills",
+                "Self Management",
+                "Macroeconomics",
+                "Financial Accounting",
+                "Legal & Political Environment in Business",
+                "Human Resources Management",
+                "Business Communication",
+
+                "Personal Development Planning",
+                "Organizational Behavior",
+                "Business Information Systems",
+                "Principles of Marketing",
+                "Business Statistics",
+                "Operations Management",
+                "Leadership and Teamwork",
+                "Business Negotiation",
+                "Supply Chain Forecasting",
+                "Strategic Sourcing",
+                "Inventory and Warehouse Management",
+                "Lean Management",
+
+
+                "Career Readiness and Business Etiquettes",
+                "Business Ethics & Values",
+                "Manufacturing Resource Planning",
+                "Logistics Management",
+                "Project Management",
+                "Strategic Management",
+                "Business Research Methods",
+                "Business Internship",
+                "Enterprise Resource Planning",
+
+
+                "Comprehensive Research Project",
+                "Global Supply Chain Management",
+                "Strategic Supply Chain Management",
+                "Supplier Relationship Management",
+                "Sustainable Supply Chain Management",
+                "Lean Six Sigma",
+                "Transport Management",
+                "Business Analytics & Simulation"
+            ],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish Logic Stricks & Chain Management as a career Path"
+            ]
+        },
+        "HRM": {
+            "name": "Bachelor of HRM (Human Resources Management)",
+            "description": "Human resource management is a study that prepares candidates for leadership and management positions in various types of organizations. These degrees require students to take classes that focus on different aspects of the field. Among them are creating ROIs, managing conflicts, building teams, and managing labor relations.",
+            "fee": "210,000",
+            "image": "../assets/img/hrm.png",
+            "schedule": "24 Months",
+            "outline": [
+                "Business and Business Environment",
+                "Marketing Processes and Planning",
+                "Human Resource Management",
+                "Leadership and Management",
+                "Accounting Principles",
+                "Managing Successful Business Project",
+                "Business Law",
+                "Professional Identity and Practice",
+                "Research Project (Pearson Set)",
+                "Organisational Behaviour",
+                "Business Strategy",
+                "Business Intelligence",
+                "Resource and Talent Planning",
+                "Employee Relations",
+                "Strategic Human Resource Management"
+            ],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish Human Resources Management as a career Path"
+            ]
+        },
+        "INT. Teaching Eduation": {
+            "name": "INT. Teaching Education",
+            "description": "In order to improve the quality of teachers in primary schools, the Bachelor of Teaching (Primary Education) program is designed. Graduates of this program will possess a level of education knowledge, content knowledge, and pedagogical skills that will enable them to succeed in their careers.\n\nThe Bachelor of Teaching (Primary Education) is designed for teachers, principals, college lecturers, and other members of the education profession who wish to enhance their knowledge and skills.",
+            "fee": "234,000",
+            "image": "../assets/img/teaching.jpg",
+            "schedule": "24 Months",
+            "outline": [],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish INT Teaching as a career Path"
+            ]
+        },
+        "Social Science": {
+            "name": "Bachelor of Social Science",
+            "description": "An undergraduate degree in Social Science will enable you to contribute to shaping our world. You can gain a comprehensive understanding of the world's complexity, cultural diversity, and dynamic nature by combining theory, research, and practical application. In addition to industry-based projects and placements, you'll gain local and international work experience and develop practical skills that will prepare you for career success.",
+            "fee": "223,000",
+            "image": "../assets/img/socialscience.jpg",
+            "schedule": "24 Months",
+            "outline": [],
+            "requirement": [
+                "School Leavers after A/ L",
+                "Those who wish Social Science as a career Path"
+            ]
+        }
+    }
+}

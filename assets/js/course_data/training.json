@@ -1,0 +1,92 @@
+{
+    "Spoken English": {
+        "name": "Spoken English",
+        "description": "Do you want to speak better English? This course will help you reach that goal. Speak English Professionally: You will develop and demonstrate the speaking skills for group discussions: how to agree or disagree, how to clarify, restate and summarize. You will review and practice how to give information and respond to requests on the conversation. You will study and role play effective interviewing. You will  prepare and give a sales “pitch”, introducing a product or service. Throughout the course, you will adjust how you speak English and you will become more fluent and accurate when you speak. You will demonstrate  culturally appropriate body language and tone.  As you work through the course, you will complete self- and peer-evaluations. Through a combination of lectures, comprehension and vocabulary quizzes, practice and performance, you’ll gain the skills and confidence to communicate well  in English, anywhere in the world.  After completing the course you can gain the certification.",
+        "fee": "44,000",
+        "image": "assets/img/maxresdefault.jpg",
+        "schedule": "1 Year",
+        "outline": [
+            "Tense",
+            "Regular and irregular verbs",
+            "Subject-Verb agreement",
+            "Common prepositions",
+            "Fluent speech practice"
+        ],
+        "requirement": ["Completion of GCE O/L, A/L examinations OR Certificate in English course"]
+    },
+    "Leadership": {
+        "name": "Leadership",
+        "description": "In the training, we will train you as a leader and you can learn and train with us. You can learn also how to behave like a leader and how to handle the problems in your own. However the training course will help you, how to create the self-confidence. Upon completion, you can earn the certificate from us.",
+        "fee": "40,000",
+        "image": "assets/img/leader.jpg",
+        "schedule": "1 Year",
+        "outline": [
+            "Develop trust and credibility",
+            "Share the vision with absolute clarity",
+            "Be there to help them succeed - Coaching, mentoring, communicating, and listening",
+            "Make the decisions and be held accountable",
+            "Keep it all under control and headed in the right direction"
+        ],
+        "requirement": ["Completion of GCE O/L, A/L examinations OR Certificate in English course"]
+    },
+    "Marketing": {
+        "name": "Marketing",
+        "description": "Transform how you deliver results in either a sales role or as part of a marketing strategy. Our courses in marketing are designed to upskill you for work in rapidly-growing industries. As a plus, our courses can be completed without the time and cost commitments associated with similar programmes. \n\n We offer a wide selection of business, marketing topics to give you the necessary knowledge needed to work in a contemporary marketing and sales environment. Our selection of topics will enable you to explore core concepts, methods and perspectives to be a champion in your field. Advance your performance or enhance your employment potential by developing valuable skills today. Upon completion you can get certificate from us.",
+        "fee": "35,000",
+        "image": "assets/img/marketing-strategy-2.jpg",
+        "schedule": "1 Year",
+        "outline": [
+            "Email marketing",
+            "Make friends (BEST friends) with Google",
+            "Make your website sell for you",
+            "Start a blog",
+            "List on a course marketplace",
+            "Embrace SMS marketing",
+            "Get social. Social media that is!",
+            "Push your USP",
+            "Reviews",
+            "Offer blended learning",
+            "Thought leadership",
+            "Give away free stuff",
+            "Create a referral program"
+        ],
+        "requirement": ["Completion of GCE O/L, A/L examinations OR Certificate in English course"]
+    },
+    "Life Skill Development": {
+        "name": "Life Skill Development",
+        "description": "Do you want to develop your skills? This training program for you can develop your skills in top level with us. You can collaborate with us and learn something new and then develop your own skills. Upon the training you can earn certification from us.",
+        "fee": "23,000",
+        "image": "assets/img/Life_Skills_Poster.webp",
+        "schedule": "1 Year",
+        "outline": [
+            "Self-Awareness Skills",
+            "Empathy and Sympathy Skills",
+            "Problem-Solving Skills",
+            "Decision-Making Skills",
+            "Thinking Skills",
+            "Communication skills",
+            "Interpersonal Skills",
+            "Accepting Criticism Skill"
+        ],
+        "requirement": ["Completion of GCE O/L, A/L examinations OR Certificate in English course"]
+    },
+    "Phone Repairing": {
+        "name": "Phone Repairing",
+        "description": "The student who wants to become a phone repairing career, this course for them. We will train you to repair the smartphones in the practical way. We will give lots of problems and then we will teach you the solutions. After completing the training you can earn the certification from us.",
+        "fee": "30,000",
+        "image": "assets/img/iphone.jpg",
+        "schedule": "1 Year",
+        "outline": [
+            "Smartphone Repairs",
+            "Basic Electronics Declassified",
+            "Tools and Test Equipments",
+            "Schematic Diagrams",
+            "SOLDERING, SOLDERING, SOLDERING",
+            "APPLICATION OF SOLDERING IN CELL PHONE REPAIR",
+            "Integrated Circuits",
+            "LIQUID DAMAGE",
+            "Troubleshooting"
+        ],
+        "requirement": ["Completion of GCE O/L, A/L examinations OR Certificate in English course"]
+    }
+}
